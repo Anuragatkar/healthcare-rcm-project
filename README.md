@@ -23,7 +23,7 @@ The pipeline extracts data from CSVs, transforms it into a consistent format, ha
 - **Google BigQuery** – Cloud data warehouse for analytics.
 - **.env & Service Keys** – Secure credentials management.
 - **SQL** – Creating tables & running analytics queries.
-
+```
 ## 📂 Project Structure
 Healthcare_RCM_Project/
 │── config/ # Database and GCP configurations
@@ -39,8 +39,7 @@ Healthcare_RCM_Project/
 │── .env # Environment variables (Project ID, Keys)
 │── README.md # Project documentation 
 
-
----
+```
 
 ## 🔄 ETL Pipeline Flow
 1. **Extract**  
